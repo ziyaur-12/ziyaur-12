@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Ziyaurrahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Machine+Learning+Enthusiast;Agentic+Ai;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 </p>
 
 ---
