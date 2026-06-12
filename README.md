@@ -107,7 +107,7 @@ Collection of Machine Learning practical implementations and experiments.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ziyaur-12/ziyaur-12/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
