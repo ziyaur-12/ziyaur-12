@@ -1,5 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Ziyaurrahman</h1>
-
+<h1 align="center">Hi 👋, I'm Ziyaurrahman</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
@@ -14,38 +13,34 @@
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer (MERN Stack)
-* 🤖 Exploring Machine Learning, Computer Vision & AI
-* 🧠 Learning Agentic AI Systems
-* 🌱 Active Open Source Contributor
-* 🎯 Looking for Software Development Internships
-* 📍 Sultanpur, Uttar Pradesh, India
-* 📫 Reach me at: **[ziyaurrahman457@gmail.com](mailto:ziyaurrahman457@gmail.com)**
+- 💻 Full Stack Developer (MERN Stack)
+- 🤖 Exploring Machine Learning, Computer Vision & AI
+- 🧠 Learning Agentic AI Systems
+- 🌱 Active Open Source Contributor
+- 🎯 Looking for Software Development Internships
+- 📍 Sultanpur, Uttar Pradesh, India
+- 📫 Reach me at: **[ziyaurrahman457@gmail.com](mailto:ziyaurrahman457@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Programming Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
 ### Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
@@ -55,19 +50,15 @@
 ## 📌 Featured Projects
 
 ### 🤖 Face Recognition System
-
 Deep Learning based face recognition system with real-time detection, recognition and confidence score display.
 
 ### 💬 Java Chat Application
-
 Real-time chat application developed using Java Socket Programming.
 
 ### 🌐 Portfolio Website
-
 Responsive personal portfolio showcasing projects, skills and achievements.
 
 ### 📚 Machine Learning Lab RTU
-
 Collection of Machine Learning practical implementations, datasets and experiment reports.
 
 ---
@@ -92,7 +83,7 @@ Collection of Machine Learning practical implementations, datasets and experimen
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziyaur-12&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ziyaur-12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -105,25 +96,15 @@ Collection of Machine Learning practical implementations, datasets and experimen
 
 ---
 
-## 📈 Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ziyaur_12&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ziyaur-rahman-78570a251">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:ziyaurrahman457@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/ziyaur-12">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
