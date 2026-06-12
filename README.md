@@ -92,7 +92,7 @@ Collection of Machine Learning practical implementations, datasets and experimen
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziyaur-12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ziyaur-12&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
