@@ -1,30 +1,29 @@
 # <h1 align="center">Hi 👋, I'm Ziyaurrahman</h1>
 
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Open Source Contributor | Agentic AI Explorer</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN);Machine+Learning+Enthusiast;Open+Source+Contributor;Agentic+AI+Explorer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN);Machine+Learning+Enthusiast;Open+Source+Contributor;Agentic+AI+Explorer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziyaur-12&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ziyaur-12&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer specializing in MERN Stack
-* 🤖 Passionate about Machine Learning & Computer Vision
-* 🧠 Exploring Agentic AI and Intelligent Systems
-* 🌱 Currently improving Open Source Contribution skills
-* 📚 Learning Backend Architecture & Scalable Systems
+* 💻 Full Stack Developer (MERN Stack)
+* 🤖 Exploring Machine Learning & Computer Vision
+* 🧠 Learning Agentic AI Systems
+* 🌱 Active Open Source Contributor
 * 🎯 Looking for Internship Opportunities
 * 📍 Sultanpur, Uttar Pradesh, India
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -44,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -56,37 +55,27 @@
 
 ### 🤖 Face Recognition System
 
-* Deep Learning based Face Detection & Recognition
-* Real-time Recognition with Accuracy Display
-* OpenCV + Deep Neural Networks
+Deep Learning based face recognition with real-time accuracy display.
 
 ### 💬 Java Chat Application
 
-* Real-time Communication using Socket Programming
-* Multi-client Architecture
-* Java Networking Concepts
+Real-time chat application using Java Socket Programming.
 
-### 🧠 Machine Learning Lab Experiments
+### 🌐 Portfolio Website
 
-* Naive Bayes
-* ANN
-* Classification Algorithms
-* Data Analysis & Visualization
+Modern responsive portfolio built with React.
 
-### 🌐 Personal Portfolio Website
+### 📚 Machine Learning Lab RTU
 
-* Responsive Design
-* Modern Frontend Technologies
-* Project Showcase & Contact Section
+Collection of Machine Learning practical implementations and experiments.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziyaur-12&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyaur-12&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziyaur-12&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyaur-12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,7 +83,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziyaur-12&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=ziyaur-12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -102,7 +91,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyaur-12&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyaur-12&theme=tokyo-night" />
 </p>
 
 ---
@@ -110,19 +99,29 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziyaur-12&theme=tokyonight&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ziyaur-12&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/ziyaur-rahman-78570a251
-* Email: [ziyaurrahman457@gmail.com](mailto:ziyaurrahman457@gmail.com)
-* GitHub: https://github.com/ziyaur-12
+<p>
+<a href="https://www.linkedin.com/in/ziyaur-rahman-78570a251">LinkedIn</a> •
+<a href="mailto:ziyaurrahman457@gmail.com">Email</a> •
+<a href="https://github.com/ziyaur-12">GitHub</a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Keep Learning • Keep Building • Keep Growing 🚀
+⭐ Keep Learning • Keep Building • Keep Growing 🚀
 </p>
