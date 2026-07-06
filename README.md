@@ -66,8 +66,8 @@ Collection of Machine Learning practical implementations, datasets and experimen
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziyaur-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyaur-12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ziyaur-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ziyaur-12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
