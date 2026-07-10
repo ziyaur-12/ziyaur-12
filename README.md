@@ -96,11 +96,12 @@ Collection of Machine Learning practical implementations, datasets and experimen
 
 ---
 
-## 💭 Dev Quote
+## 💭 My Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://raw.githubusercontent.com/ziyaur-12/ziyaur-12/main/quote_banner.svg" alt="Dev Quote"/>
 </p>
+
 
 ---
 
