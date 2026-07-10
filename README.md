@@ -96,6 +96,14 @@ Collection of Machine Learning practical implementations, datasets and experimen
 
 ---
 
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
