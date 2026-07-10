@@ -75,7 +75,7 @@ Collection of Machine Learning practical implementations, datasets and experimen
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=ziyaur-12&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ziyaur-12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
