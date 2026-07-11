@@ -99,9 +99,8 @@ Collection of Machine Learning practical implementations, datasets and experimen
 ## 💭 My Philosophy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziyaur-12/ziyaur-12/main/quote_banner.svg" alt="Dev Quote"/>
+  <img src="https://raw.githubusercontent.com/ziyaur-12/ziyaur-12/main/quote_banner.svg" alt="Dev Quote" width="100%">
 </p>
-
 
 ---
 
