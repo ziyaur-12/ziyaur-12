@@ -1,5 +1,34 @@
 ## 💭 My Philosophy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ziyaur-12/ziyaur-12/main/quote_banner.svg" alt="Dev Quote"/>
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="20" fill="url(#bg)"/>
+
+  <text x="60" y="85"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="36"
+        font-weight="700"
+        fill="#38bdf8">
+    💭 My Philosophy
+  </text>
+
+  <text x="60" y="135"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="26"
+        fill="#ffffff">
+    "Code with curiosity. Learn with consistency."
+  </text>
+
+  <text x="60" y="175"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="20"
+        fill="#94a3b8">
+    Every line of code is a step toward becoming a better developer.
+  </text>
+</svg>
