@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Colorful top banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ziyaurrahman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Open%20Source&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN)+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%B1;Agentic+AI+Explorer+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%94%A5;Always+Learning+New+Technologies+%E2%9C%A8" />
 
-<!-- Profile views badge -->
 <img src="https://komarev.com/ghpvc/?username=ziyaur-12&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
 </div>
@@ -107,8 +104,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&section=header" width="100%"/>
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ziyaur-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ziyaur-12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-five-green-20.vercel.app/api?username=ziyaur-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-five-green-20.vercel.app/api/top-langs/?username=ziyaur-12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -161,5 +158,4 @@
   </a>
 </p>
 
-<!-- Colorful bottom banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
